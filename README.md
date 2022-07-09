@@ -25,6 +25,17 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androids7)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+ <iframe  
+ height=850 
+ width=90% 
+ src="[http://mctool.wangmingchang.com/index/jspay/dashang](https://www.coolapk.com/apk/as.mke.eatcpu)"  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
+
+
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androids7&repo=androids7.github.io&show_owner=true)](https://github.com/gsyx666/gsyx666.github.io)
 -->
