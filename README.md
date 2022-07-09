@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on free
+- 🌱 I’m currently learning c++,java web,linux,wpf 
+- 👯 I’m looking to collaborate on wifi route ,fpga,linux,openwrt
+- 🤔 I’m looking for help with android,ndk,cmake,qt 
+- 💬 Ask me about brain
+- 📫 How to reach me: github
 
 <!--
 **androids7/androids7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
