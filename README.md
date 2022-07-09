@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androids7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://www.coolapk.com/apk/as.mke.eatcpu)]
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androids7&repo=androids7.github.io&show_owner=true)](https://github.com/gsyx666/gsyx666.github.io)
 -->
